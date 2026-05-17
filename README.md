@@ -1,3 +1,4 @@
+
 # Low-Level Image Stitching from Scratch (C++)
 
 This project implements a multi-image panorama stitching algorithm entirely from scratch in C++, without using high-level OpenCV stitching modules. It focuses on raw matrix and pixel operations.
@@ -11,3 +12,5 @@ This project implements a multi-image panorama stitching algorithm entirely from
 ## Example Outputs
 <img width="1648" height="516" alt="Adim3_Final_Panorama" src="https://github.com/user-attachments/assets/edd1d964-482b-4e7f-948b-8b9169f0f213" />
 
+![Uploading Adim3_Final_Panorama.jpg…]()
+![Uploading Adim3_Final_Panorama.jpg…]()
