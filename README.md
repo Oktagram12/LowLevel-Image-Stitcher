@@ -9,4 +9,5 @@ This project implements a multi-image panorama stitching algorithm entirely from
 * **Inverse Warping & Feathering:** Blends multiple images seamlessly on a large dynamic canvas using weighted pixel accumulation.
 
 ## Example Outputs
-*(Buraya result klasöründen bir tane başarılı panoramik çıktının resmini sürükleyip bırakabilirsin)*
+<img width="1648" height="516" alt="Adim3_Final_Panorama" src="https://github.com/user-attachments/assets/edd1d964-482b-4e7f-948b-8b9169f0f213" />
+
